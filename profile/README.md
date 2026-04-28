@@ -9,3 +9,4 @@
 
 ### Projects:
 * ESA and Rasberry Pi Foundation's *Mission Space Lab*, as part of their annual competitions, Astro Pi
+* Rocks, a rocketry project for Newcastle-under-Lyme School, undertaken under partnership with 3 others. 
